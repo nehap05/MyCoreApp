@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nehap\\OneDrive\\Desktop\\COMP 367\\Lab1\\MyCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA006D0-800B-4FBB-9669-500FFAE22407}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\nehap\\onedrive\\desktop\\comp 367\\lab1\\mycoreapp\\mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA006D0-800B-4FBB-9669-500FFAE22407}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA006D0-800B-4FBB-9669-500FFAE22407}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\nehap\\onedrive\\desktop\\comp 367\\lab1\\mycoreapp\\mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA006D0-800B-4FBB-9669-500FFAE22407}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA006D0-800B-4FBB-9669-500FFAE22407}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\nehap\\onedrive\\desktop\\comp 367\\lab1\\mycoreapp\\mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA006D0-800B-4FBB-9669-500FFAE22407}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA006D0-800B-4FBB-9669-500FFAE22407}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\nehap\\onedrive\\desktop\\comp 367\\lab1\\mycoreapp\\mycoreapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFA006D0-800B-4FBB-9669-500FFAE22407}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nehap\\OneDrive\\Desktop\\COMP 367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nehap\\OneDrive\\Desktop\\COMP 367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T05:21:55.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nehap\\OneDrive\\Desktop\\COMP 367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\nehap\\OneDrive\\Desktop\\COMP 367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:19:32.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\nehap\\OneDrive\\Desktop\\COMP 367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\nehap\\OneDrive\\Desktop\\COMP 367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T05:18:17.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nehap\\OneDrive\\Desktop\\COMP 367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\nehap\\OneDrive\\Desktop\\COMP 367\\Lab1\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:16:41.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
